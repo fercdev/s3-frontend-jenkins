@@ -15,7 +15,7 @@ pipeline {
             }
 
             steps {
-                sh "npm ci"
+                sh "npm install"
                 sh "npm run build"
                 sh "cp build/index.html build/error.html"
             }
