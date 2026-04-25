@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>PROYECTO FRONT PARA PIPELINE (DESDE AWS)</div>
+        <div>PROYECTO FRONT PARA PIPELINE (DESDE JENKINS - CON VERCEL)</div>
       </header>
     </div>
   );
